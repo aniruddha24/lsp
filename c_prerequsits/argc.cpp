@@ -6,7 +6,7 @@ int main(int argc,char **argv,char **envp)
 
 	for(int i=0;i<=argc;i++)
 	{
-		cout<<"ARGV :"<<argv[i]<<":"<<envp[i]<<endl;
+		cout<<"ARGV :"<<argv[i]<<":"<<envp[i]<<endl;//HAAI HUUIi
 	}
 	return 0;
 }
