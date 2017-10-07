@@ -1,6 +1,6 @@
 #include<stdio.h>
 #include<libmath.h>
-#include"printresult.h"
+//#include"printresult.h"
 int main()
 {
 int i,j;
